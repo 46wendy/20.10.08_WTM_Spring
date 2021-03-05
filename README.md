@@ -63,8 +63,6 @@ http://itproject.ezenac.co.kr/wtm/
 
 #### root-context.xml
 
-> 프로젝트 안에 `root-context.sample.xml` 이라는 이름으로 샘플 파일이 포함되어 있습니다.
-
 아래의 부분을 찾아서 `자신의_workspace_경로`, `프로젝트이름`, `구글메일주소`, `구글앱비밀번호` 값을 설정합니다.
 
 ```xml
