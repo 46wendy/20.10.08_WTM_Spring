@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.spring.wtm.controllers.ShopController" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/controllers/ShopController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1088" y="177"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.spring.wtm.controllers.ShopRestController" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/controllers/ShopRestController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="406" y="169"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.spring.wtm.controllers.ProductController" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/controllers/ProductController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1792" y="147"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="com.spring.wtm.service.CartService" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/CartService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1343" y="646"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="com.spring.wtm.service.DeliveryService" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/DeliveryService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="936" y="583"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="com.spring.wtm.service.OrderService" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/OrderService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="514" y="595"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="com.spring.wtm.service.ProductService" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/ProductService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1751" y="580"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="com.spring.wtm.service.impl.CartServiceImpl" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/impl/CartServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1347" y="1033"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.spring.wtm.service.impl.DeliveryServiceImpl" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/impl/DeliveryServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="937" y="986"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.spring.wtm.service.impl.OrderServiceImpl" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/impl/OrderServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="510" y="1001"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="com.spring.wtm.service.impl.ProductServiceImpl" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/service/impl/ProductServiceImpl.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1753" y="902"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="com.spring.wtm.scheduler.ShopScheduler" project="ezen_bigdata_01" 
+    file="/ezen_bigdata_01/src/main/java/com/spring/wtm/scheduler/ShopScheduler.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1471" y="118"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="13">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <association id="14">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="15" name="cartService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="16" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="6"/>  
+  </realization>  
+  <association id="18">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="19" name="productService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="20" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="21">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="22" name="orderService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="23" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="25" name="cartService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="26" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="27">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="28">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="29" name="deliveryService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="30" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="31">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="32" name="cartService"/>      
+      <multiplicity id="33" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="35" name="orderService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="36" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="38" name="productService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="39" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="41" name="deliveryService">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="42" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="43">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
