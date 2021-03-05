@@ -29,8 +29,6 @@ http://itproject.ezenac.co.kr/wtm/
 
 #### log4j.xml
 
-> 프로젝트 안에 `log4j.sample.xml` 이라는 이름으로 샘플 파일이 포함되어 있습니다.
-
 로그가 저장될 위치를 설정합니다.
 
 아래의 코드에서 `자신의_workspace_경로`라고 된 부분을 자신의 경로에 맞춰 변경합니다.
